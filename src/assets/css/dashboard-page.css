@@ -1,0 +1,13 @@
+.custom-menu .ant-menu-item {
+    background-color: #1f1f1f !important; /* Background of items */
+    color: white !important;             /* Text color */
+  }
+  
+  .custom-menu .ant-menu-item:hover {
+    background-color: #333 !important;
+  }
+  
+  .custom-menu .ant-menu-item-selected {
+    background-color: oklch(60.6% 0.25 292.717) !important;
+    color: #fff !important;
+  }

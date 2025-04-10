@@ -1,0 +1,3 @@
+.ant-input::placeholder {
+    color: gray;  /* Your desired color */
+  }
